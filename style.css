@@ -1,0 +1,13 @@
+table {
+	table-layout: fixed;
+    height:400px;
+    width: 40%;
+}
+
+td{
+	background-color: gray;
+}
+
+td:hover{
+	background: lightgray;
+}
